@@ -6,6 +6,7 @@ public class l
 	for (i=0;i<=9;i++);
 	{
 	System.out.println("sriganesha");
+	System.out.println("phanindra")
 	System.out.println("\n phani");
 	System.out.println("numbers", +i);
 	}
